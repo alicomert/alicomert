@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alicomert
-- 👀 I’m interested in java, php, html, c#
+- 👀 I’m interested in java, php, html, java
 - 🌱 I’m currently learning java,c#
 - 📫 telegram : @telegram (https://t.me/alicomert) && mail: alicomert.protonmail.com
 

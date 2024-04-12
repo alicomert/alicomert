@@ -19,3 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=alicomert&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alicomert/count.svg?"  />
+</div>

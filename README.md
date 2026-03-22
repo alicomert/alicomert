@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        Ali Comert  ·  Full Stack Developer                ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+products+from+idea+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -75,7 +67,7 @@ const aliComert = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicomert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicomert&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicomert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>

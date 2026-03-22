@@ -80,21 +80,11 @@ const aliComert = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alicomert&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=alicomert&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alicomert&theme=tokyo-night&hide_border=true&area=true)](https://github.com/alicomert)
 
 </div>
 
